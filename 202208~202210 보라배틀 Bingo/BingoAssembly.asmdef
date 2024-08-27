@@ -1,0 +1,20 @@
+{
+    "name": "BingoAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:db2875c6bc6e11c4fb8730f4afcd8265",
+        "GUID:59003f980497cea42bb78b6cdf71e270",
+        "GUID:c532f019bbeb99f458aecb2a323b3ee8",
+        "GUID:d24741c46fa345043b9fafd36ec2751a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
